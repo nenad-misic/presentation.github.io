@@ -1,0 +1,48 @@
+.content {
+    width: 90vw;
+    height: 90vh;
+    margin: 0 !important;
+    padding: 0 !important;
+}
+
+body {
+    margin: 0;
+    overflow: hidden;
+}
+
+
+.nametable {
+    height: 90vh;
+    width: 100%;
+}
+
+.col-4 {
+    padding-bottom: 50px !important;
+    padding-top: 50px !important;
+}
+
+div {
+    margin: 0 !important;
+}
+
+.p {
+    padding: 0.125rem !important;
+}
+
+.brdr {
+    border-left: 1px solid black;
+    border-right: 1px solid black;
+}
+
+.fs {
+    width: 100vw;
+    height: 90vh;
+}
+
+#screen1, #screen2, #screen3 {
+    transition: all 1s;
+}
+
+* {
+    color: white;
+}
